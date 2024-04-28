@@ -10,6 +10,6 @@ jspm_packages
 
 
 # env
-.env.*
+.env
 .env.development
 .env.production
